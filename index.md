@@ -20,7 +20,7 @@ Tech4Health Institute, NYU Langone Health\
 New York 11101, USA\
 Email: pramla.thapa@nyulangone.org\
 Email: pramilathapa643@gmail.com\
-Social: <a href="https://www.researchgate.net/profile/Pramila-Thapa" target="_blank" rel="noopener noreferrer">ResearchGate</a> | <a href="https://www.linkedin.com/in/pramila-thapa-4a363b14b/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+Social: <a href="https://www.researchgate.net/profile/Pramila-Thapa-2" target="_blank" rel="noopener noreferrer">ResearchGate</a> | <a href="https://www.linkedin.com/in/pramila-thapa-4a363b14b/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 ---
 <!---
