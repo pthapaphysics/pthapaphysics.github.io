@@ -4,7 +4,7 @@ I am currently working as a postdoctoral fellow at the <a href="https://med.nyu.
   
 </p>
 ---
-Here is my <a href="/assets/doc/Rabi_CV_academic.pdf" target="_blank" rel="noopener noreferrer">CV</a>  [last updated July 2026].
+Here is my <a href="/assets/doc/pramila_CV.pdf" target="_blank" rel="noopener noreferrer">CV</a>  [last updated July 2026].
 
 # News & Updates 
 ---
@@ -18,9 +18,9 @@ Room 4-505, Innolabs\
 Tech4Health Institute, NYU Langone Health\
 45-18 Court Sq. W., Long Island City\
 New York 11101, USA\
-Email: rabisankar.samanta@nyulangone.org\
-Email: rabisankar.samanta96@gmail.com\
-Social: <a href="https://www.researchgate.net/profile/Rabisankar-Samanta" target="_blank" rel="noopener noreferrer">ResearchGate</a> | <a href="https://www.linkedin.com/in/rabisankar-samanta-82243b12a/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+Email: pramla.thapa@nyulangone.org\
+Email: pramilathapa643@gmail.com\
+Social: <a href="https://www.researchgate.net/profile/Pramila-Thapa" target="_blank" rel="noopener noreferrer">ResearchGate</a> | <a href="https://www.linkedin.com/in/pramila-thapa-4a363b14b/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 ---
 <!---
